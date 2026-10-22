@@ -1,0 +1,6 @@
+pip install opencv-python-headless>=4.13.0
+pip install scikit-image==0.18.3 Pillow==9.1.1
+pip install numpy==1.22.4 scipy==1.10.1
+pip install pytorch-msssim==1.0.0 tensorboard==2.9.1
+pip install torchsummary thop
+pip install tqdm==4.61.2 einops==0.8.1
